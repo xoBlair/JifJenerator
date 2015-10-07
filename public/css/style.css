@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(
+    to bottom,
+    #FFFFFF,
+    #FFFFFF 50%,
+    #ECCCCA 50%,
+    #ECCCCA
+  );
+  color: #04043A;
+  text-align: center;
+}
