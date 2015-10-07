@@ -135,6 +135,7 @@ DEPENDENCIES
   rails_12factor
   sinatra
   sinatra-contrib
+  giphy
 
 BUNDLED WITH
    1.10.6
