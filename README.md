@@ -7,7 +7,3 @@
 	- Use [HTTParty](https://github.com/jnunemaker/httparty) to query the [giphy API](https://github.com/Giphy/GiphyAPI) to get back a random gif using the parameter set from the user in the form field from the view.
 	- Grab the appropriate value from the data provided by the giphy API and display your newly generated gif onto a new view! (Or if you want you can have it display to the same view as the form field).
 
-
-## Bonus
-
-1. Complete the [Code Academy Lesson on jQuery and Ajax](https://www.codecademy.com/courses/javascript-beginner-en-g7vdk/0/1)
